@@ -2,3 +2,9 @@ header {
   background-color: darkslateblue;
   text-align: center;
 }
+
+main {
+  background-color: lightgrey;
+  background-image: url("record.png");
+  background-repeat: repeat;
+}
