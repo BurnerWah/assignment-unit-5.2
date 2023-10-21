@@ -8,3 +8,7 @@ main {
   background-image: url("record.png");
   background-repeat: repeat;
 }
+
+body {
+  margin: 0;
+}
