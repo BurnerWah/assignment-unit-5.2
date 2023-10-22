@@ -1,9 +1,11 @@
-header {
+.title {
   background-color: darkslateblue;
+}
+.center {
   text-align: center;
 }
 
-main {
+.content {
   background-color: lightgrey;
   padding: 1em;
 }
